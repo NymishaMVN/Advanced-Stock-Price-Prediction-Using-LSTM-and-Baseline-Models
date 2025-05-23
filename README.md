@@ -50,7 +50,7 @@ performance of the model at different time points.
    
 4. Future Forecasting:
  - Created 10-day forecasts using two models, using the latest information.
- - 
+   
 3.Key Findings
 Model Performance:
 - Both LSTM and GRU achieved good results for each of the tickers.
@@ -71,6 +71,7 @@ Using cross-validation gives additional assurance that the model can reliably
 be put into practice.
 
 4.Conclusion and Next Steps
+
 This work reveals that LSTM and GRU models perform well when trying to 
 predict stock prices from past data. Although no model is 100% accurate in 
 finance, these models help provide useful, statistically backed predictions 
